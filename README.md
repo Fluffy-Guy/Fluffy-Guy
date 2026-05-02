@@ -13,5 +13,13 @@ Want to learn:
 - Asebmly
 - Rust
 
+<h1></h1>
+
+My favroute languges ranked:
+
+1. C#
+2. C
+3. Python
+
 
 bye
