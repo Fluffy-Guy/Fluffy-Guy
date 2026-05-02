@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3> I am fluffy, i like to code, and someday I want to make a new OS that jits will like very much
+</h3>
+<h1></h1>
 
-<!--
-**Fluffy-Guy/Fluffy-Guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior coder:
+- Python
+- C#
 
-Here are some ideas to get you started:
+Learning: 
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to learn:
+- Asebmly
+- Rust
+
+
+bye
